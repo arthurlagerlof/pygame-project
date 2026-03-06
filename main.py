@@ -1,9 +1,11 @@
-# Idea:
+# Concept:
 # Normally (when in safe mode), you can't see the coins and the enemy can't see you
 # When you press space, you can see the coins for five seconds, and the enemy can see you
 # The more coins you have gathered, the faster the enemy will be (capped at 100ms per enemy move)
 #
 # When you exit through the door, a new map is generated
+#
+# Highscore is tracked and saved when you exit through the door
 #
  
  
